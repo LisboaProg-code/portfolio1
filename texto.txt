@@ -1,0 +1,45 @@
+Olá, eu sou [Seu Nome] 👋. Sou um Júnior Front-end | Júnior Back-end
+
+Bem-vindo(a) ao meu portfólio! Aqui você descobrirá um pouco mais sobre quem eu sou, minhas habilidades e minha paixão por desevolvimento de sites e software
+
+Sobre mim
+
+Sou um(a) profissional apaixonado(a) por criação de sites. Minha jornada começou com a curiosidade do mundo de software, fiquei um tempo na parte de servidores (Back-end) e depois fui para a parte dos clientes (Front-end) e agora estou voltando para a parte de back-end. Desde então, venho estudando para criar soluções inteligentes, inovadoras e impactantes para os desafios que surgem no mundo digital.
+
+Minhas Habilidades
+
+Aqui estão algumas das áreas nas quais me destaco:
+
+Desenvolvimento Web
+
+Criação de websites modernos e responsivos.
+
+Tecnologias: HTML, CSS, JavaScript, Media Queries.
+
+Design de Interfaces
+
+Desenvolvimento de experiências de usuário intuitivas.
+
+Ferramentas: Figma, Canva, Gimp.
+
+Git e Github
+
+Organização e criação de repositórios remotos e local.
+
+Back-end
+
+linguagens adicionais como Python, NodeJs
+
+Contato
+
+<formulário>
+
+Vamos fazer algo grandioso juntos! 🚀
+
+Email: lisboaneto56@gmail.com
+
+Instagram: https://www.instagram.com/092_lisboa/
+
+GitHub: https://github.com/LisboaProg-code
+
+
