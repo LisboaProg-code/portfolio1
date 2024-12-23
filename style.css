@@ -400,3 +400,12 @@ footer a:hover, footer .email:hover, .copy:hover, .frase:hover{
     color: whitesmoke;
     transition: color .5s ease;
 }
+
+/* oq preciso ajeitar no media queries.
+    aumentar o tamanho da fonte no header?
+    width maximo do texto da apresentação e sobre mim, aumentar tamanho de texto
+    ajeitar pra 2 colunas a parte de skills, aumentar tamanho de bloco e imagem e texto
+    ajeitar as linhas pra ficarem em pé
+    aumentar o tamanho do formulario
+    aumentar o tamanho da fonte do footer, e da frase 
+*/
